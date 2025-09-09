@@ -7,11 +7,11 @@ package com.practice.regionproject.base.reason.controller;
  * @author Piyush Soni
  *
  */
-public class MainR {
+public class RegionMain {
 
 	
 	public static void main(String[] args) {
-		MainR mainR = new MainR();
+		RegionMain mainR = new RegionMain();
 		R1 r1 = new R1();
 		int count = 10;
 		Integer m1 = 128;
